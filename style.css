@@ -111,3 +111,13 @@ header .wrapper ul li:last-child a{
     padding: 12px 24px;
     border-radius: 35px 35px 20px 20px;
 }
+#home .wrapper div.right{
+    width: 48%;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+#home .wrapper div.right img{
+    width: 110%;
+    padding: 32px;
+}
